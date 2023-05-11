@@ -1,2 +1,2 @@
 # is_banana
-problem set 2 problem 3
+A program to solve for the probability that a random word is a banana word.
